@@ -1,4 +1,4 @@
-/*var nome = "Jailson Melo"
+var nome = "Jailson Melo"
 var idade = 31;
 var anoAtual = 2021;
 alert("Seu nome é: " + nome + " e nasceu no ano:" + (anoAtual-idade));
@@ -90,7 +90,7 @@ var pass1 = prompt("Digite o password");
 var pass2 = prompt("Repita o password");
 validarPassword()
 console.log(validar);
-*/
+
 // Criando evento de click
 function clik(){
     document.getElementById("agradecimento")
